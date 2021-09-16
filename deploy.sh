@@ -13,6 +13,6 @@ git commit -m 'deploy'
 
 # si los cambios se suben a https://<USERNAME>.github.io/ ejecutar lo siguiente
 
-git push -f https://github.com/Natypuff88/deploytres.git main:gh-pages 
+git push -f https://github.com/Natypuff88/deploy3.git main:gh-pages 
 
 cd -
